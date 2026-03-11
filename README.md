@@ -50,10 +50,9 @@
 ---
 
 ---
-
 <div align="center">
   <br>
   <hr>
   <h2>KHALID ALSHAMMARI</h2>
-  <p>💡 2026 | Ehsan Platform Data Analysis Project (2021 - 2023 Sample)</p>
+  <p>💡 2026 | Independent Data Analysis: Ehsan Platform (2021 - 2023 Sample)</p>
 </div>
