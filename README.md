@@ -14,7 +14,7 @@
 </div>
 
 ## 📝 نبذة عن المشروع | Project Overview
-**بالعربية:** لوحة بيانات تفاعلية تم بناؤها باستخدام **Power BI** لتحليل عينة بيانات من منصة إحسان، بهدف استكشاف أنماط التبرع وتحويلها إلى رؤى (Insights) تدعم فهم سلوك المتبرع الرقمي في المملكة العربية السعودية.
+**بالعربية:** لوحة بيانات تفاعلية تم بناؤها باستخدام **Power BI** لتحليل سلوك التبرع لعينة من المتبرعين على منصة إحسان، بهدف استكشاف أنماط التبرع وتحويلها إلى رؤى (Insights) تدعم فهم سلوك المتبرع الرقمي في المملكة العربية السعودية.
 
 **English:** An interactive dashboard built with **Power BI** to analyze a data sample from the Ehsan Platform. The project focuses on exploring donation patterns and converting raw data into actionable insights to understand digital donor behavior in Saudi Arabia.
 
