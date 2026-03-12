@@ -7,7 +7,7 @@
 
 <div style="display: flex; justify-content: center; gap: 15px; margin: 25px 0;">
   <img src="EHSAN_SC.png" width="460" alt="Ehsan Dashboard View 1" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2); border: 1px solid #ddd;">
-  <img src="EHSAN_Screenshot.png" width="460" alt="Ehsan Dashboard View 2" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2); border: 1px solid #ddd;">
+  <img src="EHSAN_SC2.png" width="460" alt="Ehsan Dashboard View 2" style="border-radius: 10px; box-shadow: 0px 4px 15px rgba(0,0,0,0.2); border: 1px solid #ddd;">
 </div>
 
 ---
